@@ -1,0 +1,9 @@
+Default superuser
+-----------------
+username: garibo
+password: mmkafka
+token: 4b2fe31ee90f8ae8e9338f06be6e742deb3bc14e
+
+username: testuser
+password: root12345
+token:  a403e4021c42de75e9fa85e3111a94c54bfd18e5
